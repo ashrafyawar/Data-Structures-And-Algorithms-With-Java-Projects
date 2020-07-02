@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"part01","l":"LinkedArrayList"},{"p":"part01","l":"LinkedArrayList.MyLinkedArrayListIterator"},{"p":"part01","l":"Node"},{"p":"part01","l":"TestClass"}]

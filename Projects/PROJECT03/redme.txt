@@ -1,0 +1,3 @@
+to compile this code part1 and part2 using intelli j or eclipse we just need to open the idea and from there open the part1 and part2 folders
+i have used intelli j with jdk13.
+

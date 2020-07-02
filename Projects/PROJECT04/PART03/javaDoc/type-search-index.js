@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"RecursiveMethodsPackage","l":"MainClass"},{"p":"RecursiveMethodsPackage","l":"RecursiveMethodsClass"}]

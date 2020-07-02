@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"MyPackage","l":"DequeClass"},{"p":"MyPackage","l":"DequeClass.LinkedListIterator"},{"p":"MyPackage","l":"MainClass"},{"p":"MyPackage","l":"Node"}]
